@@ -1,5 +1,5 @@
 # Video-Residual-Dense-Network<br><br>
-## Demo: [youtube link](https://youtu.be/vbzUwDoDJJg)
+## Demo: [youtube link](https://youtu.be/O7BIswoWTY4)
 ## Abstract:
 近年來卷積神經網路CNN在許多電腦視覺的工作取得卓越的成果，亦包含傳統上認為較困難的超解析度問題，
 本篇論文於現有視訊超解析度的架構[1]上，先利用FlowNet2.0[2]估計光流與動作補償、對齊模型輸入的低解析度影格，然後，我們改良了單一影像超解析度的殘差密集網路RDN[3]，提出一種可使用於視訊超解析度的模型VRDN，將低解析度影格轉換為高解析度並且達到state-of-art的效能。<br><br>
